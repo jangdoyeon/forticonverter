@@ -6,3 +6,8 @@ fortigate configuration converter
 ```
 forticonv.py [config file name]
 ```
+
+# Output
+```
+[original config file name].csv
+```
